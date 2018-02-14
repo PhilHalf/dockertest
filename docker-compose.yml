@@ -7,4 +7,4 @@ services:
       dockerfile: Dockerfile
     image: phil/dockertest
     ports:
-      - "8080:80"
+      - "8081:80"
